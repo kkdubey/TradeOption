@@ -1,0 +1,17 @@
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\TraderApi.exe
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\TraderApi.deps.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\TraderApi.runtimeconfig.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\TraderApi.runtimeconfig.dev.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\TraderApi\bin\Debug\netcoreapp3.1\TraderApi.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\TraderApi.csprojAssemblyReference.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\TraderApi.AssemblyInfoInputs.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\TraderApi.AssemblyInfo.cs
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\TraderApi.RazorTargetAssemblyInfo.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\TraderApi.csproj.CopyComplete
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\staticwebassets\TraderApi.StaticWebAssets.Manifest.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\staticwebassets\TraderApi.StaticWebAssets.xml
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\TraderApi.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\TraderApi\netcoreapp3.1\TraderApi.genruntimeconfig.cache

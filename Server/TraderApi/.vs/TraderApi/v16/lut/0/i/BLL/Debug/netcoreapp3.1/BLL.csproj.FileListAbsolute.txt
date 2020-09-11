@@ -1,0 +1,7 @@
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL\Debug\netcoreapp3.1\BLL.deps.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL\Debug\netcoreapp3.1\BLL.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL\Debug\netcoreapp3.1\BLL.dll

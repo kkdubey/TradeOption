@@ -4,14 +4,70 @@
     "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\TraderApi.csproj": {}
   },
   "projects": {
-    "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\TraderApi.csproj": {
+    "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\BAL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\TraderApi.csproj",
-        "projectName": "TraderApi",
-        "projectPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\TraderApi.csproj",
+        "projectUniqueName": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\BAL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\BAL\\BLL.csproj",
         "packagesPath": "C:\\Users\\H425159\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\obj\\",
+        "outputPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\H425159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\H425159\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\H425159\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +93,121 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\TraderApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\TraderApi.csproj",
+        "projectName": "TraderApi",
+        "projectPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\TraderApi.csproj",
+        "packagesPath": "C:\\Users\\H425159\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\TraderApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\H425159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\BAL\\BLL.csproj": {
+                "projectPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\BAL\\BLL.csproj"
+              },
+              "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Swashbuckle": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,14 @@
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.deps.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.runtimeconfig.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.runtimeconfig.dev.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.csprojAssemblyReference.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.AssemblyInfoInputs.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.AssemblyInfo.cs
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.csproj.CopyComplete
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\BLL.Tests\Debug\netcoreapp3.1\BLL.Tests.genruntimeconfig.cache

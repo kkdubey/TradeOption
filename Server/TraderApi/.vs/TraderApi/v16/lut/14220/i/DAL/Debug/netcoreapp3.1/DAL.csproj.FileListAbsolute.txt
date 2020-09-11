@@ -1,0 +1,10 @@
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\DAL\Debug\netcoreapp3.1\DAL.deps.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\DAL\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\DAL\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\b\DAL\Debug\netcoreapp3.1\DAL.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\DAL\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\DAL\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\DAL\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\DAL\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\DAL\Debug\netcoreapp3.1\DAL.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\.vs\TraderApi\v16\lut\0\i\DAL\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

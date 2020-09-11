@@ -1,0 +1,12 @@
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BAL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
