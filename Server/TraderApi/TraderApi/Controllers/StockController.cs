@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using BLL.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using TraderApi.ViewModels;
 
 
@@ -15,10 +16,13 @@ namespace TraderApi.Controllers
 
         private IStockManager _stockManager;
         private readonly IMapper _mapper;
-        public StockController(IMapper mapper, IStockManager stockManager)
+        private readonly ILogger _logger;
+
+        public StockController(IMapper mapper, IStockManager stockManager, ILogger<StockController> logger)
         {
             _stockManager = stockManager;
             _mapper = mapper;
+            _logger = logger;
         }
 
         // GET: api/<UserController>
@@ -30,6 +34,9 @@ namespace TraderApi.Controllers
         [ProducesResponseType(200, Type = typeof(List<StockDetailViewModel>))]
         public async Task<IActionResult> Get()
         {
+            _logger.LogInformation("Log Info");
+            _logger.LogWarning("Log Warning");
+            _logger.LogError("Log Error..");
             var stocks = await _stockManager.GetStocksAsync();
             return Ok(_mapper.Map<List<StockDetailViewModel>>(stocks));
         }

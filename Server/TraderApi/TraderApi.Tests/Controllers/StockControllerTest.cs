@@ -2,6 +2,7 @@
 using BLL.Interfaces;
 using DAL.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using NUnit.Framework;
@@ -34,7 +35,9 @@ namespace TraderApi.Tests
                 cfg.AddProfile(new AutoMapperProfile());
             });
             var mapper = mockMapper.CreateMapper();
-            StockController stockController = new StockController(mapper, mock.Object);
+
+            var loggerMock = Mock.Of<ILogger<StockController>>();
+            StockController stockController = new StockController(mapper, mock.Object, loggerMock);
             var actionResult = await stockController.Get().ConfigureAwait(false);
             var result = actionResult as ObjectResult;
             Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual(1, (result.Value as IList<StockDetailViewModel>).Count);
@@ -52,7 +55,9 @@ namespace TraderApi.Tests
                 cfg.AddProfile(new AutoMapperProfile());
             });
             var mapper = mockMapper.CreateMapper();
-            StockController stockController = new StockController(mapper, mock.Object);
+
+            var loggerMock = Mock.Of<ILogger<StockController>>();
+            StockController stockController = new StockController(mapper, mock.Object, loggerMock);
             var actionResult = await stockController.Get(1).ConfigureAwait(false);
             var result = actionResult as ObjectResult;
             Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull(result.Value);

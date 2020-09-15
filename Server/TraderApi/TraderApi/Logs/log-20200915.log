@@ -1,0 +1,6 @@
+2020-09-15T18:14:35.7315802+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-15T18:14:35.7523686+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-15T18:14:35.7548729+05:30  [INF] Content root path: "C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi" (b5d60022)
+2020-09-15T18:14:46.6392064+05:30 8000000c-0004-fe00-b63f-84710c7967bb [INF] Log Info (bfc9208b)
+2020-09-15T18:14:46.6503474+05:30 8000000c-0004-fe00-b63f-84710c7967bb [WRN] Log Warning (7b6c8edd)
+2020-09-15T18:14:46.6553843+05:30 8000000c-0004-fe00-b63f-84710c7967bb [ERR] Log Error.. (c7290e61)

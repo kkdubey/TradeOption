@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Security.Authentication;
-using System.Text;
-using BLL.Implementations;
+﻿using BLL.Implementations;
 using BLL.Interfaces;
 using DAL;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

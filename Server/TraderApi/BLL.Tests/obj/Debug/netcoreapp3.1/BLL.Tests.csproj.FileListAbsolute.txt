@@ -94,3 +94,4 @@ C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BLL.Tests\obj\Debug\netcoreapp3.
 C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BLL.Tests\obj\Debug\netcoreapp3.1\BLL.Tests.pdb
 C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BLL.Tests\obj\Debug\netcoreapp3.1\BLL.Tests.genruntimeconfig.cache
 C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BLL.Tests\obj\Debug\netcoreapp3.1\BLL.Tests.csprojAssemblyReference.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\BLL.Tests\bin\Debug\netcoreapp3.1\testhost.exe

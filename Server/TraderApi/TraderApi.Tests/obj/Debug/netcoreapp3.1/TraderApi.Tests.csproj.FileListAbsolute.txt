@@ -161,3 +161,11 @@ C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\obj\Debug\netcor
 C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
 C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
 C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\obj\Debug\netcoreapp3.1\TraderApi.Tests.csproj.CoreCompileInputs.cache
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Work\POC\DotNet\TradeOption\Server\TraderApi\TraderApi.Tests\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll

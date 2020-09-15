@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CqgtVL5tqrcfMJS3DlVzj4RzxxtYmm2DgvkZlJ7a3+LJVkOySdGPSm/Z7s9qdNgkstEEbDSvAOFcjaCh0oO01w==",
+  "dgSpecHash": "6MHci1d7cg50l93JP7OJOzDkJSbrFdWGBErSr2+RUMqcorTH4WODuuz0T4Ce95+52relZS6KMcbORmgyB8MR2A==",
   "success": true,
   "projectFilePath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\BAL\\BLL.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C9MwyDIpShUkjm6DYLKVvSmhCyYXw+KF+MOzLfY9bqwDAeQ0lPJ+bU+kVgB5//4/rISbAMDCfXO+yiI5XNWodQ==",
+  "dgSpecHash": "OvFDsQLBHTH30UF0V6phiEhLITF6PUSKkHK+h9iOTArqgxmt8CRL+IsdCP5rLTZiwZVJUeAAf3g4lfPoCWgllg==",
   "success": true,
   "projectFilePath": "C:\\Work\\POC\\DotNet\\TradeOption\\Server\\TraderApi\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
